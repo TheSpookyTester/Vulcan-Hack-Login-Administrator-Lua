@@ -1,0 +1,20 @@
+local loginkey = script.Parent.password.text()
+if user login then
+script.Parent.copy.password()
+do copy ()
+script.Parent.password.import.HackerUser()
+local HackerUser = script.Parent.Specific.User()
+do pairs , 3 5 2 1 2 4  21 2 43 21  412 41  412 4 12 41 41 41 41 41 42 3412
+local admin = script.Parent.HackerUser.admin.get()
+script.Parent.admin.HackerUser.Permission()
+print"Script Permission Is Done! "
+local correctpassword = script.Parent.HackerUser.get.correctpassword()
+local patch = script.Parent.patch.disable()
+Vector16:getservice"Lua"
+local Permission = script.Parent.HackerUser.admin.Permission.get()
+if pairs then
+do math , 2 3 1 2 34 1 2  431   24 1 32  41  234 1 24   51   64 82 7 98 1080 81  1280 84097012 934709 47810 704912094 7123094 71209471094710293 4712094 71209412
+  end
+  local protect = script.Parent.destroy.protect.website()
+  local debosfucate = true
+  end
